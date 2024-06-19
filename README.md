@@ -1,6 +1,8 @@
 # ¡Hola, Mundo! 👋
 ## ¡Bienvenido a mi perfil de GitHub!
-Mi nombre es Nikhol Aquino Buendia, soy del departamento de Hunacavelica, Perú, y tengo 24 años. Soy una principiante entusiasta en el desarrollo de software, apasionado por aprender y dominar los fundamentos de la programación. Actualmente, estoy explorando diversos lenguajes y herramientas para desarrollar habilidades sólidas en la creación de aplicaciones informáticas. Mi enfoque inicial se centra en comprender conceptos como variables, estructuras de control y funciones, mientras me aventuro en áreas específicas como el desarrollo web y aplicaciones móviles. Estoy emocionado por crecer como desarrollador y enfrentar nuevos desafíos en el campo del software.
+
+Mi nombre es Nikhol Aquino Buendia, soy natural de Hunacavelica, Perú, y tengo 24 años. Me considero una entusiasta principiante en el desarrollo de software, apasionada por adquirir y dominar los fundamentos de la programación. En la actualidad, estoy explorando diversos lenguajes y herramientas para fortalecer mis habilidades en la creación de aplicaciones informáticas. Mi enfoque inicial se centra en comprender conceptos fundamentales como variables, estructuras de control y funciones, mientras me aventuro en áreas específicas como el desarrollo web y aplicaciones móviles. Estoy emocionada por crecer como desarrolladora y enfrentar nuevos desafíos en el campo del software.
+
 ## Acerca de mí
 
 💻 Siempre estoy explorando oportunidades para ampliar mis conocimientos y avanzar en mi área profesional.
