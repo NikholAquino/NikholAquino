@@ -4,23 +4,21 @@ Mi nombre es Nikhol Aquino Buendia, soy del departamento de Hunacavelica, Perú,
 ## Acerca de mí
 
 💻 Siempre estoy explorando oportunidades para ampliar mis conocimientos y avanzar en mi área profesional.
-
 🤖 Disfruto de los desafíos y me siento motivada al resolver problemas que requieren soluciones complejas.
-
 📊 Disfruto colaborando y trabajando en equipo.
 
 ## Hobbies que me agradan 
-- Ajedrez
+♟️♕ Ajedrez
 
 ## Tecnologías que me agradan
-JavaScript 
-HTML
-CSS
-Tailwind CSS
-Git
+🌟 JavaScript.
+🌟 HTML.
+🌟 CSS.
+🌟 Tailwind CSS.
+🌟 Git.
 
 ## Contacto
-Puedes comunicarte conmigo por correo electrónico en: nikholaquino@gmail.com
+🌟 Puedes comunicarte conmigo por correo electrónico en: nikholaquino@gmail.com
 
 Estoy contenta de establecer conexión y trabajar juntos en el fascinante campo del desarrollo de software.
 Gracias por visitar mi perfil.
