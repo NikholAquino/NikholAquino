@@ -18,7 +18,7 @@ Mi nombre es Nikhol Aquino Buendia, soy del departamento de Hunacavelica, Perú,
 🌟 Git.
 
 ## Contacto
-🌟 Puedes comunicarte conmigo por correo electrónico en: nikholaquino@gmail.com
+Puedes comunicarte conmigo por correo electrónico en: nikholaquino@gmail.com
 
 Estoy contenta de establecer conexión y trabajar juntos en el fascinante campo del desarrollo de software.
 Gracias por visitar mi perfil.
