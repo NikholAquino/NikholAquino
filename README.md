@@ -4,7 +4,9 @@ Mi nombre es Nikhol Aquino Buendia, soy del departamento de Hunacavelica, Perú,
 ## Acerca de mí
 
 💻 Siempre estoy explorando oportunidades para ampliar mis conocimientos y avanzar en mi área profesional.
+
 🤖 Disfruto de los desafíos y me siento motivada al resolver problemas que requieren soluciones complejas.
+
 📊 Disfruto colaborando y trabajando en equipo.
 
 ## Hobbies que me agradan 
