@@ -15,16 +15,11 @@ CSS
 Tailwind CSS
 Git
 
-## Frase
-Solo se que nada sé
+## Contacto
+Puedes comunicarte conmigo por correo electrónico en: nikholaquino@gmail.com
 
-## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
-
-## Languages me
-Spanish
-English
-Portuguese
+Estoy contenta de establecer conexión y trabajar juntos en el fascinante campo del desarrollo de software.
+Gracias por visitar mi perfil.
 
 
 
